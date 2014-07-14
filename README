@@ -1,0 +1,9 @@
+This is the README file for the CSE 6730 Project.
+
+To build the simulator, simply run the make command.
+To run the simulator, run ./sim
+This should run a simulation of a default door configuration.
+
+NOTE: The simulator has been tested under both Mac OS X
+and standard Linux OS's. However, in case it does not
+build properly, please send an email to karl@gatech.edu.
